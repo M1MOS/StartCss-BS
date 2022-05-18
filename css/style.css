@@ -1,0 +1,9 @@
+:root {
+  --bg-blued: var(#2C3E4F);
+  --bg-red: var(#DC3444);
+}
+:root body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */
